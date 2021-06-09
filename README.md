@@ -7,4 +7,4 @@
 - Phot0 Search
 - Designed By Tailwind
 
-[Live Link]('')
+[Live Link]('https://pixabay-by-tailwind.netlify.app/')
